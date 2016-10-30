@@ -1,7 +1,13 @@
 Cold and dry, but everything is my favorite color
 Two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 
 =======
 Jane is really dumb. -Andy's computer
 
+=======
+Jane is really cool -Andy's computer
+smitty werbenjagenmanjensen
+he was number one
+>>>>>>> ae15cc6e0589d089291d2b16c202b9d3c21c750c
